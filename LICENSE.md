@@ -1,4 +1,4 @@
-# 
+# automatic Arbitrage Bot for geckoterminal sniper bot | volume-spike-detection & liquidity-pool-analysis is the best geckoterminal sniper bot, featuring volume-spike-detection and
 
 
 
